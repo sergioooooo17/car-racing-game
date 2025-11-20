@@ -2,7 +2,13 @@
 <br>
 ### Description of the game : <br>
 
-This is a 2-d car racing game. The objective of the game is to prevent your car from crashing into opponents car. The opponents car come from opposite direction and with variable speed. 
+This wersja to trzyosobowy wyścig 2D. Każdy gracz steruje własnym samochodem i ściga się do linii mety:
+
+- BMW X6M (czarny) – sterowanie strzałkami.
+- Mercedes W200 (srebrny) – sterowanie klawiszami **WASD**.
+- Mercedes C klasa (biały) – sterowanie klawiszami **IJKL**.
+
+Wygra ten, kto jako pierwszy dojedzie do żółtej linii mety po prawej stronie.
 
 ### How to start the game : <br>
 
